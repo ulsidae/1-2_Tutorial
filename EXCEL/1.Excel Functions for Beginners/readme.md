@@ -6,7 +6,7 @@ This lesson focuses on understanding how Excel functions are structured and appl
 
 > **Goal:** Understand what each function does, when to use it, and how to combine functions to solve practical problems.
 
-The video is intentionally lightweight and example-driven. This README goes deeper into function syntax, edge cases, and technical details for readers who want more than the video covers.
+The [video](https://www.youtube.com/watch?v=4IZDrCHEeMY) is intentionally lightweight and example-driven. This README goes deeper into function syntax, edge cases, and technical details for readers who want more than the video covers.
 
 ## Functions Covered
 
